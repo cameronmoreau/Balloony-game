@@ -1,0 +1,54 @@
+
+skins.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+background
+  rotate: false
+  xy: 1, 406
+  size: 958, 600
+  orig: 958, 600
+  offset: 0, 0
+  index: -1
+balloon
+  rotate: false
+  xy: 1, 4
+  size: 168, 400
+  orig: 168, 400
+  offset: 0, 0
+  index: -1
+title
+  rotate: false
+  xy: 171, 324
+  size: 342, 80
+  orig: 342, 80
+  offset: 0, 0
+  index: -1
+menu_button
+  rotate: false
+  xy: 171, 272
+  size: 250, 50
+  orig: 250, 50
+  offset: 0, 0
+  index: -1
+popup
+  rotate: false
+  xy: 171, 170
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+pipeTop
+  rotate: false
+  xy: 961, 989
+  size: 45, 17
+  orig: 45, 17
+  offset: 0, 0
+  index: -1
+pipeSide
+  rotate: false
+  xy: 1, 1
+  size: 45, 1
+  orig: 45, 1
+  offset: 0, 0
+  index: -1
